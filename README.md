@@ -68,4 +68,6 @@ Grouped bar plots are created to compare budget and revenue by original language
 
 Box plots are used to visualize the distribution of budget by original language. This visualization provides insights into the budget distribution for each language category.
 
-This README file gives an introduction to the Movies Dataset Analysis project, lists the tools used, and provides a brief overview of the analysis steps performed on the movies dataset. You can customize this README to suit your project's specific details.
+This README file gives an introduction to the Movies Dataset Analysis project, lists the tools used, and provides a brief overview of the analysis steps performed on the movies dataset.
+
+Thank you for reading :) give me a ⭐ if you found it helpful.
